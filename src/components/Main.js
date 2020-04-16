@@ -158,6 +158,3 @@ class Main extends React.Component {
 }
 
 export default Main;
-
-// https://blog.hellojs.org/fetching-api-data-with-react-js-460fe8bbf8f2
-// https://medium.com/@agoiabeladeyemi/pagination-in-reactjs-36f4a6a6eb43

@@ -1,0 +1,13 @@
+.welcome {
+    margin-top: 90px;
+    padding-bottom: 90px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+.header {
+    margin-bottom: 35px;
+}
+
+.headerText {
+    line-height: 1.8;
+}

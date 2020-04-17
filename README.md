@@ -11,6 +11,10 @@ Pagination example
 
 https://medium.com/@agoiabeladeyemi/pagination-in-reactjs-36f4a6a6eb43
 
+Search field example
+
+https://stackoverflow.com/questions/51726391/how-to-create-a-search-field-in-reactjs
+
 # Deploy
 
 There were some issues when deploying to Heroku. To fix that, install serve

@@ -2,6 +2,8 @@
 
 This is a small web development project, built as an assessment to Revenue Monster's developer job application. Candidates were given a choice to chose one task out of the given two. I chose to develop a front-end, mobile-optimised web application using React and vanilla CSS (no bootstrap). The app pulls data from the <a href="https://developers.themoviedb.org/3/getting-started/introduction">Movie Database Api</a>, which are then rendered on this page using minimalistic design approach. Users are able to click on any movie thumbnail to get more information about a movie. Additionally, users are able to search for a movie title using the provided search bar. At the point of development, the total number of data pages available were 500. For the sake of time constraint however, the Pagination component only supports up to 5 accessible pages. This component can be extended to support more pages later on.
 
+This App is now live [here](https://radiant-castle-14362.herokuapp.com).
+
 ## Some references
 Fetching API data from React example
 
